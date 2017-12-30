@@ -1,0 +1,380 @@
+[1][30]{C:$aaccff}.:: ][GRUPA HATAK][::.|http://hatak.pl
+[254][294]www.NapiProjekt.pl - nowa jakosc napisów.|Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.
+[294][324]The office 1x03 - Opieka Zdrowotna|napisy i tłumaczenie: Nashira
+[328][345]Pam ! Pamelo,
+[346][373]Pamelamela Ding Dong !|Robimy kopie.
+[382][404]- Ja nie robię żadnych kopii.|- Ruszać się !
+[407][439]Wiadomości, data, dużo do zrobienia, dużo do zrobienia...
+[440][452]Szybki przekaz wiadomości !
+[454][468]- Nic nowego...|- Niech...
+[469][492]- Nie ma nic nowego.|- Wcześniej mówiłaś inaczej.
+[494][526]Chcesz, bym powtórzyła wiadomości|które przekazałam ci wcześniej ?
+[527][537]Przed...
+[575][629]Najbardziej świętą rzeczą jaką robię jest opieka,|i troska o moich pracowników, moją rodzinę.
+[632][646]Daję im pieniądze.
+[648][662]Daję im jedzenie.
+[672][692]Nie bezpośrednio, ale poprzez pieniądze...
+[702][722]Uzdrawiam ich.
+[732][776]Dziś jestem odpowiedzialny za wybranie|świetnego, nowego planu opieki zdrowotnej.
+[781][801]Tak ? O to w tym wszystkim chodzi !
+[823][849]Czy to czyni ze mnie lekarza ?
+[874][897]Tak... W pewnym sensie...
+[905][923]Tak, jak specjalista.
+[960][983]Wiec na który plan zdrowotny|się zdecydowałeś ?
+[985][1007]Zamierzam wybrać najlepszy, Jen.
+[1008][1029]Zamierzam wybrać ten
+[1029][1060]z akupunkturą, masażem terapeutycznym...
+[1061][1083]- No wiesz, te prace...|- Moment, akupunktura ?
+[1084][1098]¯aden z planów nie ma akupunktury.
+[1102][1120]Przyglądaleś się im|dokładnie, Michaelu ?
+[1131][1167]Myślę, że to ty jesteś osobą, która nie przyjrzała się|dość dobrze "złotemu planowi".
+[1175][1188]- Złotemu planowi ?|- Tak.
+[1192][1205]Nawet nie znam tego planu.
+[1206][1226]No więc, ja poleciłem go, jest bardzo dobry.
+[1261][1286]- Musisz złamać i one się otwierają.|- Wiesz,powód dla którego robimy
+[1286][1305]to wszystko, to zaoszczędzenie pieniędzy.
+[1313][1323]Więc,
+[1324][1350]musisz tylko wybrać ofiarodawcę,|a następnie wybrać najtañszy plan.
+[1372][1389]No więc to...
+[1394][1415]całkiem trudne zadanie.
+[1430][1466]- To nie będzie dobrze przyjęta|decyzja, wsród starego biura.|- To twoja praca... więc
+[1470][1486]To misja samobójcza, wiesz...
+[1500][1514]- Michaelu,|- Ja, ja wiem
+[1515][1533]- Może chodzi o to...|- ¯e... ¯e
+[1534][1549]Wiesz, czasem kierownik...
+[1556][1564]jak ty,
+[1565][1596]musi przekazywać złe wiadomości|pracownikom, ja robię to cały czas.
+[1601][1627]- Tak, kiedy ty zrobiłaś coś takiego ?|- Właśnie teraz to robię.
+[1638][1652]Tobie.
+[1671][1688]Wczoraj w "Trading spouses"...
+[1694][1714]- Tam... widziałaś to ?|- Nie, ja mam życie.
+[1719][1746]- Interesujące, i jak to jest ?|- Powinieneś czasem spróbować.
+[1748][1760]Wow
+[1764][1780]- Ale kto by wtedy oglądał mój telewizor ?
+[1781][1790]Więc tak to jest
+[1790][1805]Ding Dong !
+[1858][1873]Jest decyzja|do podjęcia.
+[1873][1896]A ja mam niewiarygodnie zajęty dzieñ.
+[1907][1934]Więc, pozwolę wam wybrać
+[1936][1957]plan zdrowotny dla naszego biura,
+[1958][1977]i wytłumaczyć go
+[1980][1996]waszym współpracownikom.
+[2008][2023]- O rany !|- Tak !
+[2032][2059]To świetna propozycja. Dziękuję.
+[2079][2109]Myślę, że to naprawde ja powinienem|zająć się sprzedażą.
+[2110][2125]- Naprawde ?|- tak.
+[2132][2158]Poprostu niesądzę, że to zadanie|jest tym, które
+[2164][2192]ja powinienem wykonać...
+[2192][2211]Wiesz kto by był najlepszy do tego ?
+[2213][2251]Kiedy Michael prosi mnie o zrobienie czegoś,|mówię mu, że Dwight powinien to zrobić.
+[2258][2287]Tak ! Mogę to zrobić ! Jestem twoim człowiekiem.
+[2290][2309]Teraz to jest tylko praca.
+[2312][2348]Jeśli awansuję w tej firmie,|wtedy to będzie moja kariera.
+[2352][2366]No i...
+[2367][2392]jeśli to by była moja kariera,
+[2400][2419]to rzuciłbym się|pod pociąg.
+[2424][2455]Ok, najpierw zajmijmy się argumentami,
+[2456][2476]ilu ludzi mogę zwolnić ?
+[2480][2506]¯adnego, ty wybierasz|plan opieki zdrowotnej.
+[2518][2550]Ok, przełóżmy to na kiedy indziej.|Po drugie, będę potrzebował gabinetu.
+[2551][2564]Myślę, że sala konferencyjna|powinna wystarczyć.
+[2566][2594]Możesz użyć sali konferencyjnej|jako tymczasowego miejsca pracy.
+[2596][2620]Tak, mam swój gabinet.
+[2623][2648]- Większy niż ten !|- Nie, nie możesz go używać.
+[2649][2679]- Zrozumiałem, że to miejsce pracy.|- Możesz je używać jako tymczasowe.
+[2691][2702]Dziękuję.
+[2722][2746]Jeśli Dwightowi się nie uda, a to będzie zaskoczenie|i dobrze dla mnie,
+[2753][2772]by dać mu kolejną szansę.
+[2778][2803]A jeśli mu się powiedzie, wtedy, no wiecie,
+[2804][2828]Nikt nie będzie bardziej dumny|niż ja. Przygotowałem go.
+[2830][2849]Stworzyłem go takim, jakim jest dzisiaj.
+[2868][2896]Chyba, że mu się nie uda, ale
+[2899][2924]juz o tym mówiłem.
+[2955][2978]Co zrobiłem ? Zrobiłem to co do mnie należało.
+[2982][3015]Okroiłem wydatki do minimum.|Zaoszczędziłem pieniądze firmy.
+[3019][3059]Czy to było to zbyt ostre ? Może.|Nie wierzę w rozpieszczanie ludzi.
+[3066][3094]Na wolności, nie ma opieki zdrowotnej.
+[3097][3130]Na wolności opieka zdrowotna jest|"Gdy, zraniłem się w nogę...
+[3134][3161]nie mogę biec, lew mnie zjada,|i jestem martwy. "
+[3172][3198]A, ja nie jestem martwy.
+[3206][3223]Ja jestem lwem.
+[3233][3250]Ty jesteś martwy !
+[3292][3312]Bez dentysty, bez okulisty,
+[3314][3336]jest 1200 dolarów na minusie.
+[3369][3382]Dundler Mifflin, Pam przy telefonie.
+[3384][3406]Pam, Michael Scott, jak tam sztuczki ?
+[3414][3436]Gdzie Pan jest ?
+[3439][3468]Jestem w swoim gabinecie, ugrzązłem.
+[3470][3494]Mam pracy po uszy
+[3494][3536]i zajęty, zajęty, zajęty, nie mogę się wyrwać,|chciałem tylko zajrzeć
+[3537][3567]i zobaczyć jak sobie wszyscy radzą.|Wszystko w porządku ?
+[3572][3592]Właściwie, ludzie są niezadowoleni
+[3598][3616]Dwight rozesłał wszystkim wykazy
+[3617][3645]- I ludzie wariują bo...|- Pam, yy, przepraszam,
+[3645][3669]Ja, ja musze koñczyć mam telefon.
+[3674][3694]Nie, nie ma Pan.
+[3707][3736]Musze wykonać telefon|po pracy
+[3736][3764]Wiesz co ?|Nie wpuszczaj nikogo do mojego gabinetu
+[3765][3807]Pod żadnym pozorem, dzisiaj jestem poprostu|zbyt zajęty, zbyt ugrzązłem, wiesz ?
+[3818][3850]Jestem nieosiągalny.|Jestem incommunicado capisce ?
+[3851][3863]- Ok|- Dziękuję,
+[3868][3901]Boże znowu się zaczyna, musze koñczyć,|muszę odebrać.
+[3904][3918]Wciąż nikt nie dzwoni.
+[3965][3986]- Dwight, co to ma znaczyć...|- Uh, pukać, proszę.
+[3991][4017]- Proszę pukać, to jest biuro.|- Jest napisane, że miejsce pracy.
+[4018][4033]- To to samo.|- Jeśli to to samo,
+[4034][4057]to czemu napisałeś "miejsce pracy".
+[4062][4098]Poprostu pukajcie, proszę, jako znak|szacunku dla przełożonego.
+[4099][4127]- Nie jesteś moim pzełożonym.|- Naprawde, to czemu mam gabinet ?
+[4128][4154]- Bo to było miejsce pracy, Dwight.|- Ok, Dwight.
+[4163][4183]Czy naprawde zajmujesz się|wybieraniem planu opieki zdrowotnej ?
+[4184][4199]Tak. I moja decyzja jest ostateczna.
+[4202][4222]To jest śmiesznie okropny plan.
+[4225][4246]Bo obciąłeś wszystko.
+[4248][4279]- Czasy są ciężkie, Pam, pogódź się z tym.|- Obciąłeś więcej niż musiałeś, prawda ?
+[4279][4284]Jasne.
+[4284][4312]Czemu to zrobiłeś ? Pracujesz|tutaj, nie chcesz mieć dobrego ubezpieczenia ?
+[4313][4338]Nie potrzebuję, nigdy nie byłem chory,|mam idealny system odpornościowy.
+[4339][4371]Ok więc jakbyś zachorował|to nie masz żadnych antybiotyków.
+[4372][4396]Nie potrzebuję ich, mam lepsze geny.
+[4397][4425]Jestem Schrute...|I mam większą siłę umysłu.
+[4426][4461]Poprzez koncentrację mogę| podnosić jak i zmniejszać cholesterol.
+[4479][4499]Dlaczego chciałbyś|podnieść cholesterol ?
+[4500][4520]Więc mogę go zmniejszyć.
+[4535][4560]Jednym słowem|on nie wyjdzie ze swojego gabinetu.
+[4566][4588]kiedyś będzie musiał wyjść stamtąd.
+[4608][4643]- ¯eby pójść do toalety.|- Kevin, to niestosowne !
+[4684][4703]Michael mogę z tobą porozmawiać ?
+[4703][4734]Chciałbym, ale jestem|naprawdę zajęty.
+[4742][4763]Michael, Michael, proszę
+[4768][4787]Możemy porozmawiać o tym wykazie ?
+[4788][4815]- Jakim wykazie ?|- Wykazie Dwighta, odnośnie opieki zdrowotnej
+[4816][4832]- Mówiłem ci o tym.|- Czy to dobry plan ?
+[4832][4854]To świetny plan !|Oszczędza fortunę w firmie.
+[4856][4885]- To jak zmniejszenie wydatków.|- Michael, zrobił duże cięcia.
+[4886][4917]Cięcia ? Co ?|Zrobiłeś cięcia Dwight ?
+[4918][4948]- Tak mówiłeś idz na...|- Nie, nie, nie. Wiesz co ?
+[4953][4977]Nie mówiłem nic dokładnie|bo byłem bardzo zajęty.
+[4979][5001]Czemu tam nie pójdziesz Dwight ?
+[5002][5036]i znajdziesz dla tych ludzi plan,|który będzie dla nich odpowiedni. Ok ?
+[5038][5065]- Zajmę się tym.|- Ok. W porządku.
+[5074][5102]Czujemy się dobrze ? W porządku, dobrze !
+[5131][5149]W dodatku,
+[5150][5174]Są inne dobre wiadomości.
+[5178][5199]Na koniec dnia,
+[5200][5226]będę miał dla was
+[5238][5264]wielką niespodziankę. Ok ?
+[5265][5295]Więc trzymajcie się i zobaczymy się|na koniec dnia.
+[5308][5323]Tak ?
+[5402][5421]- To niedobrze.|- To śmieszne.
+[5426][5448]Rozmawiałeś z nim ?
+[5450][5460]Co to było ?
+[5461][5483]Pozwoliłeś mu się przegadać|to poprostu żałosne.
+[5485][5511]- O czym gadacie ?|- O niczym, Kevin.
+[5516][5542]Czy ja wiem, jaka jest niespodzianka ?|Jasne że nie !
+[5544][5575]To nie ma znaczenia, ważne jest to,|że nie są już nieszczęśliwi.
+[5576][5606]Teraz myślą sobie "Wow !|Mój szef naprawde troszczy się o mnie.
+[5610][5635]Ma niespodziankę, jest super.
+[5641][5667]Co za świetny gość, uwielbiam go.
+[5684][5704]Uwielbiam go.
+[5724][5751]Ok wszyscy, zebrać się.
+[5780][5797]Do przodu.
+[5816][5846]Obiło mi się o uszy,|że niektórzy z was są niezadowoleni z mojego planu,
+[5847][5861]więc chciałbym żebyście teraz,
+[5862][5887]wypełnili to i napisali|choroby takie macie,
+[5888][5914]które chciecie, by zostały pokryte,|a ja zobaczę co da się zrobić.
+[5914][5942]Wiesz co Dwight ? Nie możemy|napisać naszych chorób dla ciebie,
+[5942][5960]- ponieważ to jest poufne.|- Ok,
+[5962][5986]ale ja nie mówiłem żeby|się podpisać, prawda ?
+[5987][6005]Wypełnijcie to i zostawcie anonimowe.
+[6006][6031]Albo nie piszcie żadnych chorób|i nie zostaną one pokryte.
+[6032][6053]Brzmi sprawiedliwie? Dobra. Jakby co,|będę w swoim gabinecie.
+[6058][6074]Miejscu pracy.
+[6086][6106]Wiesz co ? Chodź ze mną.
+[6106][6126]Idziemy na małą misję.
+[6127][6148]"Operacja niespodzianka. "
+[6164][6184]Gdzie idziesz ?
+[6190][6212]Przed siebie. To część mojego zajętego dnia.
+[6212][6236]No wiesz, spotkania.
+[6262][6277]Nie mogłem znaleźć klamki.
+[6302][6335]Więc właściwie, chcę zrobić|coś miłego dla moich pracowników.
+[6340][6362]Atlantic City. Ok ?
+[6364][6390]Mają tam takie coś|gdzie wysyłają autobus,
+[6392][6410]Za darmo, zabiera wszystkich,
+[6411][6440]i kieruje się do hotelu|pokój jest wliczony.
+[6442][6466]Dają ci wielką stertę|chipsów i jedzenia.
+[6468][6510]Wszystko wlicza się|do czegoś w rodzaju bezpłatnego weekendu.
+[6512][6529]Nie słyszałem o niczym takim.
+[6532][6568]Ale, jedyne co mógłbyś zrobić|to zadzwonić bezpośrednio do kasyna,
+[6570][6591]- Może.|- Jasne.
+[6602][6623]Tak zrobiłem, więc.
+[6740][6757]Czekaj, co piszesz ?
+[6758][6781]Nie pisz Ebola, lub choroby wściekłych krów.
+[6785][6804]Dobrze ?
+[6806][6828]Bo cierpię na obydwie.
+[6836][6857]- Wymyślam nowe choroby.|- Oh świetnie.
+[6858][6888]Więc powiedzmy że|moje zęby zrobią się płynne
+[6892][6915]a potem będą kapać na tył mojego gardła.
+[6916][6928]Jakbyś to nazwał ?
+[6929][6946]Myślałem że|wymyślasz choroby ?
+[6947][6971]Tak spontaniczne|"dentohydroplosion"
+[6981][6998]- Nieźle.|- Dziękuję.
+[6999][7023]Dzwonię, aby prosić cię o małą|prośbę, Rooney, mój przyjacielu.
+[7035][7070]Próbuję zapewnić grupie|tutaj trochę rozrywki
+[7072][7088]I pomyślałem sobie, że
+[7090][7126]może moglibyśmy zabrać ich|na twoją wielką przejażdżkę.
+[7140][7170]Masz na myśli windę, która|wiezie w dół do kopalni ?
+[7171][7187]To właściwie nie jest przejażdżka.
+[7190][7215]Tu jest napisane, że to...
+[7220][7239]300 stóp w dół.
+[7242][7273]No więc ona jedzie 300 stóp w głąb|ziemi, ale porusza się naprawdę wolno.
+[7289][7308]Więc to nie jest swobodny spadek ?
+[7310][7334]{y:i}To jest winda do przewozu węgla.
+[7354][7379]Dobrze. Kiedy dotrzesz|na dół,
+[7390][7417]Co, masz laser czy coś ?
+[7418][7450]Ok, więc nie wiem,|co to za niespodzianka. Czy sie boję?
+[7452][7478]Nie. Niemożliwe.|No więc, mam to gdzieś.
+[7482][7515]To mój świat, to improv,|to "kto to mówi właściwie".
+[7526][7576]Cholera ! cholera ! Jim !
+[7576][7601]W porządku, kto to zrobił ?
+[7602][7625]Nie jestem zły, tylko chcę wiedzieć,|kto to zrobił, żebym mógł go ukarać.
+[7626][7638]O czym ty mówisz ?
+[7642][7678]"Ktoś" sfałszował informacje|medyczne, a to przestępstwo.
+[7680][7712]Ok, to jest dość mocne oskarżenie.
+[7712][7737]Skąd wiesz, że są fałszywe ?
+[7739][7760]Uh, Leprosy ?
+[7767][7789]Bakteria jedząca ciało.
+[7799][7820]Palce jak hot dog.
+[7829][7862]Rząd stworzył|infekcję mini robotów zabójców
+[7882][7895]- Zrobiłeś to prawda ?|- Oczywiście, że nie.
+[7896][7905]- Tak, zrobiłeś.|- Nie, nie zrobiłem.
+[7906][7924]Wiem, że to ty.|Ok, niech będzie, wiesz co ?
+[7924][7944]Zamierzam przesłuchać|każdego z was,
+[7947][7973]Dopóki sprawca|się nie ujawni.
+[7975][8012]I do tego czasu, dla nikogo|nie będzie opieki zdrowotnej.
+[8049][8093]- Mini roboty zabójcy ?|- To epidemia.
+[8116][8157]Problem w tym Jim, że ludzie|którzy naprawdę cierpią
+[8158][8190]z powodu stanu zdrowia,|nie otrzymają wymaganej pomocy,
+[8191][8236]ponieważ ktoś w biurze|wymyśla te niedorzeczności.
+[8254][8281]- "Count Choculitis. ".|- Brzmi ciężko.
+[8283][8306]Czemu to napisałeś Jim ?
+[8309][8330]- Dlatego, że wiesz że uwielbiam Count Chocula?|- Tak ?
+[8346][8373]Myślę, że musisz się przyznać.
+[8376][8389]- Tak.|- Co robisz ?
+[8391][8407]- Co ?|- To moje klucze.
+[8408][8431]- Powodzenia.|- Jim! Cholera!
+[8433][8470]Nie ! Jim wypuść mnie. Jim, wypuść...
+[8474][8502]Zielone świało jest zielone.
+[8565][8580]- Jim Halpert.|- Wypuść mnie.
+[8581][8599]- Kto mówi ?|- Wypuść mnie albo jesteś zwolniony.
+[8601][8630]- Nie, nie możesz mnie zwolnić.|- Tak mogę, dziś jestem managerem.
+[8632][8644]Uprzątnij swoje biurko.
+[8645][8670]Ok, możesz poczekać|sekundkę, mam drugi telefon.
+[8700][8719]- Jim Halpert.|- Cześć Jim, tu Pam.
+[8720][8744]Cześć Pam !|Jak się masz ?
+[8745][8758]- Jim otwórz drzwi !|- Dobrze. Jak się masz ?
+[8759][8772]- Wszystko ok,|- Zajęty ?
+[8772][8791]- Cieszysz się z koñca tygodnia?|- Tak.
+[8792][8817]- Tak, co porabiasz ?|- Nie przeszkadzam ci ?
+[8818][8837]- Oczywiście, że nie.|- Nie masz nic do zrobienia?
+[8838][8852]- Nic nie robię.|- Oh świetnie.
+[8853][8881]Nie, na koniec tego tygodnia|nic właściwie nie robię.
+[8882][8904]- Chcesz iść do centrum?|- Centrum ?
+[8906][8937]- Potrzebuję nowe buty.|- Interesujące, jakie buty ?
+[8946][8963]- Halo ? |- Halo.
+[8965][8996]Mówi Dwight Schrute|mogę rozmawiać z Jen Levinson-Gould.
+[9000][9017]Tu Jen.
+[9018][9051]Cześć, mówi Dwight Schrute,|manager oddziału Scranton,
+[9054][9083]Potrzebuję twojego pozwolenia,|żeby zwolnić Jima Halperta.
+[9088][9110]- Kto mówi ? |- Dwight Schrute.
+[9120][9138]- Z działu sprzedaży ? |- No tak.
+[9139][9174]- Gdzie jest Michael Scott ? |- Nie ma go tutaj teraz.
+[9175][9202]Przejąłem tymczasowo jego obowiązki w biurze.
+[9206][9240]Dwight, posłuchaj mnie uważnie,|nie jesteś kierownikiem niczego.
+[9242][9275]- Rozumiesz ? |- To niezupełnie tak,
+[9280][9306]ponieważ zlecił mi|wybranie nowego planu opieki zdrowotnej.
+[9313][9327]- Naprawdę ? |- Tak.
+[9328][9335]Ok.
+[9336][9359]Kiedy wróci, powiedz,|żeby do mnie natychmiast zadzwonił.
+[9359][9372]- Natychmiast zadzwonił, dobrze.|- Tak.
+[9376][9400]Posłuchaj, skoro już rozmawiamy,
+[9415][9437]- Mogę zwolnić Jima ?|- Nie.
+[9439][9460]Proszę więcej nie używać|mojego telefonu komórkowego.
+[9461][9478]To jest twoja komórka? Myślałem,| że to twój...
+[9555][9584]Kanapki lodowe dla wszystkich.
+[9592][9620]Proszę weź jedną|weź, wszystkie są dobre.
+[9621][9641]Phyllis, odbierz.
+[9648][9672]Widzę Angelę, Angela !
+[9690][9713]Hej, weź może dwie.
+[9715][9751]Ponieważ nie masz opieki społecznej,|i szybszego metabolizmu.
+[9753][9780]Wziąłeś te z|ciasteczkami, zamiast...?
+[9782][9805]Może poprostu to zjesz ?|Ok.
+[9806][9834]Trzymaj swoje, Stanley !
+[9838][9850]- Dzięki.|- Trzymaj.
+[9850][9867]To nie jest ta duża niespodzianka, prawda ?
+[9868][9892]Bo mamy całkiem|okropny dzieñ.
+[9893][9916]Nie, nie.
+[9917][9932]To żadna niespodzianka.
+[9932][9963]To jest niespodzianka, ponieważ|nie spodziewałeś się tego.
+[9968][9997]Ale będziesz, będziesz wiedział,|jak zobaczysz.
+[10013][10036]Michael, Michael !
+[10160][10193]Próbowałem zachowywać się racjonalnie.|Ok, i jak to się skoñczyło ?
+[10194][10222]Pracownicy oszaleli,|nie otrzymałem żadnej nadziei od spółki,
+[10224][10242]więc nic mi nie pozostaje.
+[10244][10267]Zamierzam przeczytać na głos wasze|spisane stany zdrowia.
+[10270][10302]Kiedy usłyszycie wasze, proszę podnieść|rękę, potwierdzić, że są prawdziwe
+[10304][10333]Jeśli nie podniesiecie ręki,|nie zostaną pokryte.
+[10334][10360]- A co z poufnością ?|- Wiecie co ?
+[10362][10403]Straciliście ten zaszczyt.|Próbowałem was traktować jak dorosłych.
+[10406][10434]Ale najwidoczniej, jestem jedynym dorosłym tutaj.
+[10435][10473]Pierwszy, odwrócony penis.
+[10516][10563]Czy miałeś na myśli waginę ?|Bo jeśli tak, to chcę to mieć pokryte.
+[10566][10593]Myślałem, że usunięto ci waginę|podczas histerektomii.
+[10594][10640]Macica różni się od|waginy. Ciągle mam waginę.
+[10784][10825]Ok, świetnie. "Germatitus".|Dziękuję Angelo,
+[10827][10885]Dopilnuję, żeby to było pokryte. Ok teraz,|kto napisał ten z histerią ?
+[10889][10916]- Pęknięcie analne.|- To istnieje.
+[10918][10949]Tak, ale nikt tutaj tego nie ma.
+[10962][10992]Ktoś to ma.
+[11101][11130]- Myślisz, że powinniśmy iść.|- Nie wiem, Kevin to ważne.
+[11130][11142]Nie chcę próżności.
+[11147][11178]- Co on robi ?|- Nie wiem.
+[11271][11286]No i ?
+[11288][11303]No i, co ?
+[11304][11332]- Możesz odnosić się do czegokolwiek.|- Ok,
+[11334][11346]Plan opieki zdrowotnej.
+[11347][11372]Czemu zleciłeś to Dwightowi?|Spisał się fatalnie.
+[11376][11395]Dwight ?
+[11396][11420]- Zmniejszyłeś wydatki ?|- Nie zrobiłem tego.
+[11428][11449]No wiesz co? To straszne !
+[11464][11487]Dzięki za gówniany plan, Dwight.
+[11499][11512]Cholera.
+[11528][11553]Chciałbym mieć czas, żeby to zmienić, ale...
+[11556][11589]Jen, potrzebuje go do piątej...|Która godzina ? Która godzina ?
+[11594][11619]jest po piątej.
+[11622][11646]To okropne.
+[11647][11672]No cóż, ok.
+[11674][11700]Do zobaczenia w poniedziałek.
+[11707][11728]Co z niespodzianką?
+[11732][11753]Tak, dokładnie.
+[11754][11784]Dziękuję Angelo|za przypomnienie.
+[11793][11809]Œwietnie.
+[11810][11832]Zanim wszystkim powiem,|co to za wielka niespodzianka,
+[11836][11870]chcielibyście mi powiedzieć| co waszym zdaniem to jest ?
+[11881][11903]Wszyscy myślimy, że nie masz niespodzianki.
+[11904][11940]W porządku, zaskoczę was.|Jest wielka niespodzianka.
+[11954][11982]I... oto ona...
+[11984][12000]I
+[12002][12030]wielka niespodzianka to...
+[12056][12070]Werbel.
+[12271][12308]Kiedy jestem przyparty do muru,|wtedy się odradzam.
+[12316][12344]Widzicie nauczyłem się stawać lepszym|od najlepszych, jak...
+[12354][12373]Drew Carey i Ryan Styles.
+[12501][12531]Robin Williams, o rany, jakbym chciał|iść z nim ramię w ramię.
+[12546][12572]To by było ekscytujące !|"Cześć, jestem Mork z Ork. "
+[12575][12600]"A ja jestem Bork z Smork".
+[12601][12629]"anounanouzoubliblublu"
+[12907][12929]Jen chce, żebyś do niej zadzwonił.
+[12930][12960]napisy i tłumaczenie: Nashira
+[12961][12990]{C:$aaccff}.:: ][GRUPA HATAK][::.|http://hatak.pl
+[13000][13040]www.NapiProjekt.pl - nowa jakosc napisów.|Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.

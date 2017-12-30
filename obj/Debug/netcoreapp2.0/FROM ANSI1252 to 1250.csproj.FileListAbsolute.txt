@@ -1,0 +1,10 @@
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\bin\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.deps.json
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\bin\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.runtimeconfig.json
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\bin\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.runtimeconfig.dev.json
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\bin\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.dll
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\bin\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.pdb
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\obj\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\obj\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\obj\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.AssemblyInfo.cs
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\obj\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.dll
+C:\Users\barte\Desktop\FROM ANSI1252 to 1250\obj\Debug\netcoreapp2.0\FROM ANSI1252 to 1250.pdb
